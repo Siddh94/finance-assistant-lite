@@ -16,7 +16,7 @@
 📸 Demo Preview
 
 <p align="center">
-  <img src="docs/demo_text.png" alt="Text Demo" width="45%" />
+  <img src="https://drive.google.com/file/d/1Bg5DXaWHOLUXd2Hl31AUwU361Hkq5BBY/view?usp=sharing" alt="Text Demo" width="45%" />
   &nbsp;&nbsp;
   <img src="docs/demo_voice.png" alt="Voice Demo" width="45%" />
 </p>
