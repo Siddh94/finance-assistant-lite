@@ -18,7 +18,7 @@
 <p align="center">
   <img src="docs/demo_voice.png" alt="Text Demo" width="45%" />
   &nbsp;&nbsp;
-  <img src="docs/demo_voice1.png" alt="Voice Demo" width="45%" />
+  <img src="docs/docsdemo_voice1.png" alt="Voice Demo" width="45%" />
 </p>
 
 
